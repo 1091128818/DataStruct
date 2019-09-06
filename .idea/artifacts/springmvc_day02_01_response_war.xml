@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc_day02_01_response:war">
+    <output-path>$USER_HOME$/Desktop/主流框架/33.会员版(2.0)-就业课(2.0)-SpringMVC/springmvc/SpringMVC-02/代码/springmvc_day02_01_response/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc_day02_01_response</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc_day02_01_response.war">
+      <element id="artifact" artifact-name="springmvc_day02_01_response:war exploded" />
+    </root>
+  </artifact>
+</component>
