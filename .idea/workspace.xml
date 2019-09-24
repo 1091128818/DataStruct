@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6e72cc7-1cce-4a81-8d19-c2dfdbf6ffd1" name="Default Changelist" comment="" />
+    <list default="true" id="e6e72cc7-1cce-4a81-8d19-c2dfdbf6ffd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/ModList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tree/TEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/HuffmanTree/HuffmanTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/HuffmanTree/HuffmanTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/HuffmanTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/HuffmanTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/HuffmanTree/ProNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/HuffmanTree/ProNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/HuffmanTree/huffmanCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/HuffmanTree/huffmanCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/avl/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/avl/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/avl/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/avl/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/binarysortree/BinarySortTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/binarysortree/BinarySortTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/binarysortree/BinarySortTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/binarysortree/BinarySortTreeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/binarysortree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/binarysortree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/dynamic/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/dynamic/KnapsackProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/hashtable/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/hashtable/Emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/hashtable/EmpLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/hashtable/EmpLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/hashtable/hashTablele.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/hashtable/hashTablele.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkedlist/CircleSingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkedlist/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkedlist/HeroNode2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkedlist/HeroNode2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/linkedlist/Kidss.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/linkedlist/Kidss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/queue/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/queue/ArrayQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/queue/ArrayQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/queue/CircleArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/queue/CircleArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/queue/CircleArrayQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/recursion/MiGong.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/recursion/MiGong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/recursion/Queue8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/recursion/Queue8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/recursion/RecursionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/recursion/RecursionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/search/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/search/FibonacciSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/search/FibonacciSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/search/SeqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/search/SeqSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/sort/MergetSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/MergetSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sort/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/sparseArray/SparseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/sparseArray/SparseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/ArrayStack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/ArrayStack2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/LinkedListStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/LinkedListStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/PolandNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/PolandNotation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/PolandNotation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/BinaryTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/BinaryTreeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/HeroNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/ProNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/ProNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/tree/ThreadedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/tree/ThreadedBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/offer_pro/caculate/BigInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/offer_pro/caculate/BigInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/offer_pro/caculate/Bigcaculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/offer_pro/caculate/Bigcaculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/offer_pro/caculate/Solution$Guide.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/offer_pro/caculate/Solution$Guide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/offer_pro/caculate/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/offer_pro/caculate/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/offer_pro/caculate/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/offer_pro/caculate/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sort/MergetSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sort/MergetSort.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$USER_HOME$/Desktop/主流框架/33.会员版(2.0)-就业课(2.0)-SpringMVC/springmvc/SpringMVC-02/代码/springmvc_day02_01_response/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +82,131 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offer_pro/caculate/Bigcaculate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="29" column="71" lean-forward="true" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://D:/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28">
+              <caret line="228" column="11" selection-start-line="228" selection-start-column="11" selection-end-line="228" selection-end-column="11" />
+              <folding>
+                <element signature="e#7757#7758#0" expanded="true" />
+                <element signature="e#7784#7785#0" expanded="true" />
+                <element signature="docComment;method#ReentrantReadWriteLock#1;class#ReentrantReadWriteLock#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/linkedlist/SearchList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sort/MergetSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#Merge#0;class#MergetSort#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sort/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1232">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/linkedlist/ModList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1792">
+              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="47" />
+              <folding>
+                <element signature="class#ListNode#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/linkedlist/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="docComment;field#value#0;class#Node#0" expanded="true" />
+                <element signature="docComment;field#next#0;class#Node#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/linkedlist/Josepfu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="method#show#0;class#CircleSingleLinkedList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/linkedlist/SingleLinkedListDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding>
+                <element signature="docComment;class#SingleLinkedListDemo#0" expanded="true" />
+                <element signature="method#delete#0;class#SingleLinkedList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,8 +222,9 @@
       <find>hashtab</find>
       <find>left</find>
       <find>HeroNode</find>
-      <find>Node</find>
       <find>printPartition</find>
+      <find>ListNode</find>
+      <find>Node</find>
     </findStrings>
     <replaceStrings>
       <replace>HeroNode2</replace>
@@ -53,12 +235,15 @@
       <replace>right</replace>
       <replace>ProNode</replace>
       <replace>printP</replace>
+      <replace>Node</replace>
+      <replace>SearchNode</replace>
     </replaceStrings>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="ONTO" value="refs/heads/master" />
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -68,11 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sparseArray/queue/CircleArray.java" />
-        <option value="$PROJECT_DIR$/src/com/sparseArray/queue/ArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/sparseArray/queue/CircleArrayQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/sparseArray/queue/CircleArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/map1.txt" />
         <option value="$PROJECT_DIR$/src/com/sparseArray/SparseArray.java" />
         <option value="$PROJECT_DIR$/map.txt" />
         <option value="$PROJECT_DIR$/src/com/queue/CircleArrayQueueDemo.java" />
@@ -96,7 +276,6 @@
         <option value="$PROJECT_DIR$/src/com/sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/com/sort/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/com/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/com/sort/MergetSort.java" />
         <option value="$PROJECT_DIR$/src/com/sort/RadixSort.java" />
         <option value="$PROJECT_DIR$/src/offer_pro/caculate/Bigcaculate.java" />
         <option value="$PROJECT_DIR$/src/com/search/SeqSearch.java" />
@@ -117,16 +296,22 @@
         <option value="$PROJECT_DIR$/src/com/BinarySearchNoRecur/BinarySearchNoRecur.java" />
         <option value="$PROJECT_DIR$/src/com/dynamic/KnapsackProblem.java" />
         <option value="$PROJECT_DIR$/src/com/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/com/Main.java" />
         <option value="$PROJECT_DIR$/src/com/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/tree/TEST.java" />
+        <option value="$PROJECT_DIR$/src/com/linkedlist/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/linkedlist/ModList.java" />
+        <option value="$PROJECT_DIR$/src/com/linkedlist/SearchList.java" />
+        <option value="$PROJECT_DIR$/src/com/sort/MergetSort.java" />
+        <option value="$PROJECT_DIR$/src/com/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/com/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="550" />
-    <option name="y" value="245" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1105" />
-    <option name="height" value="599" />
+    <option name="height" value="600" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -134,6 +319,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +340,26 @@
             </path>
             <path>
               <item name="java offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="caculate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="caculate" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -161,14 +367,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567743594433" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568986896662" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -191,58 +396,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="BinarySearchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.BinarySearchNoRecur.BinarySearchNoRecur" />
-      <module name="java offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.BinarySearchNoRecur.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySortTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.binarysortree.BinarySortTreeDemo" />
-      <module name="java offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.binarysortree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sort.BubbleSort" />
-      <module name="java offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KnapsackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dynamic.KnapsackProblem" />
-      <module name="java offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dynamic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Main" />
       <module name="java offer" />
@@ -256,13 +409,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sort.MergeSort" />
+      <module name="java offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sort.MergetSort" />
+      <module name="java offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.ModList" />
+      <module name="java offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.SearchList" />
+      <module name="java offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tree.TEST" />
+      <module name="java offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.KnapsackProblem" />
-        <item itemvalue="Application.BinarySearchNoRecur" />
-        <item itemvalue="Application.BinarySortTreeDemo" />
+        <item itemvalue="Application.MergetSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.SearchList" />
+        <item itemvalue="Application.TEST" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +520,15 @@
       <workItem from="1566772893686" duration="9543000" />
       <workItem from="1567733555226" duration="3395000" />
       <workItem from="1567739235999" duration="664000" />
-      <workItem from="1567740017890" duration="3274000" />
+      <workItem from="1567740017890" duration="5143000" />
+      <workItem from="1567819513529" duration="18421000" />
+      <workItem from="1568078527499" duration="2049000" />
+      <workItem from="1568416705639" duration="470000" />
+      <workItem from="1568417191264" duration="599000" />
+      <workItem from="1568644433207" duration="960000" />
+      <workItem from="1568676887318" duration="1039000" />
+      <workItem from="1568756211180" duration="593000" />
+      <workItem from="1568982159763" duration="4536000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法">
       <created>1567735898299</created>
@@ -343,7 +569,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218534000" />
+    <option name="totallyTimeSpent" value="249070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,9 +581,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8951965" visible="true" weight="0.39678285" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8951965" visible="true" weight="0.1313673" />
       <window_info id="Structure" order="1" sideWeight="0.105032824" side_tool="true" weight="0.39678285" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,17 +593,17 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28111273" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.043923866" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49262735" visible="true" weight="0.34750733" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.5102639" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49731904" weight="0.15542522" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49798927" weight="0.32844576" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" weight="0.32844576" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.15196998" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5073727" side_tool="true" visible="true" weight="0.34750733" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" weight="0.47653958" />
       <window_info anchor="bottom" id="SVN Repositories" order="13" weight="0.3298969" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
@@ -429,7 +655,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/sort/MergetSort.java</url>
-          <line>35</line>
+          <line>53</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -457,33 +683,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Save1.txt" />
-    <entry file="file://$PROJECT_DIR$/src/com/queue/ArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1045">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#ArrayQueueDemo#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map1.txt" />
-    <entry file="file://$PROJECT_DIR$/map.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map.data" />
-    <entry file="file://$PROJECT_DIR$/src/com/queue/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/queue/CircleArrayQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
@@ -515,17 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/DoubleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding>
-            <element signature="method#update#0;class#DoubleLinkedList#0" />
-            <element signature="method#show#0;class#DoubleLinkedList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/jdk1.8.0_171/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-263">
@@ -544,16 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/Josepfu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2263">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="method#show#0;class#CircleSingleLinkedList#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,17 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="64" column="39" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/SingleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-          <folding>
-            <element signature="docComment;class#SingleLinkedListDemo#0" expanded="true" />
-            <element signature="method#delete#0;class#SingleLinkedList#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,24 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="63" column="16" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer_pro/caculate/Bigcaculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding>
-            <element signature="docComment;class#Bigcaculate#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,16 +956,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer_pro/caculate/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="29" selection-end-line="59" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/HuffmanTree/HuffmanTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="574">
@@ -906,16 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sort/MergetSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="docComment;method#Merge#0;class#MergetSort#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -937,16 +1066,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="docComment;class#Main#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
@@ -964,6 +1083,137 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;method#binarySearch#0;class#BinarySearch#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tree/TEST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2939">
+          <caret line="153" column="6" selection-start-line="153" selection-start-column="6" selection-end-line="153" selection-end-column="6" />
+          <folding>
+            <element signature="method#update#0;class#DoubleLinkedList#0" />
+            <element signature="method#show#0;class#DoubleLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer_pro/caculate/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer_pro/caculate/Bigcaculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/SearchList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/ModList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1792">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="47" />
+          <folding>
+            <element signature="class#ListNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="docComment;field#value#0;class#Node#0" expanded="true" />
+            <element signature="docComment;field#next#0;class#Node#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/Josepfu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="method#show#0;class#CircleSingleLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/linkedlist/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="docComment;class#SingleLinkedListDemo#0" expanded="true" />
+            <element signature="method#delete#0;class#SingleLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sort/MergetSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#Merge#0;class#MergetSort#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="71" lean-forward="true" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="228" column="11" selection-start-line="228" selection-start-column="11" selection-end-line="228" selection-end-column="11" />
+          <folding>
+            <element signature="e#7757#7758#0" expanded="true" />
+            <element signature="e#7784#7785#0" expanded="true" />
+            <element signature="docComment;method#ReentrantReadWriteLock#1;class#ReentrantReadWriteLock#0" expanded="true" />
           </folding>
         </state>
       </provider>
