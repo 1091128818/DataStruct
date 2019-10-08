@@ -8,10 +8,10 @@ package com.stack;
 public class Calculator {
     public static void main (String[] args) {
         //根据前面老师思路，完成表达式的运算
-        String expression = "7*2*2-5*1-5+3-4"; // 15//如何处理多位数的问题？
+        String expression = "1*2-3/4+5*6-7*8+9/10"; // 15//如何处理多位数的问题？
         //创建两个栈，数栈，一个符号栈
-        ArrayStack2 numStack = new ArrayStack2(10);
-        ArrayStack2 operStack = new ArrayStack2(10);
+        ArrayStack2 numStack = new ArrayStack2(100);
+        ArrayStack2 operStack = new ArrayStack2(100);
         //定义需要的相关变量
         int index = 0;//用于扫描
         int num1 = 0;
@@ -60,17 +60,16 @@ public class Calculator {
 
                 //如果ch已经是expression的最后一位，就直接入栈
                 if (index == expression.length() - 1) {
-                    numStack.push(Integer.parseInt(keepNum));
+                    numStack.push(Integer.parseInt(keepNum.trim()));
                 } else {
 
                     //判断下一个字符是不是数字，如果是数字，就继续扫描，如果是运算符，则入栈
                     //注意是看后一位，不是index++
                     if (operStack.isOper(expression.substring(index + 1, index + 2).charAt(0))) {
                         //如果后一位是运算符，则入栈 keepNum = "1" 或者 "123"
-                        numStack.push(Integer.parseInt(keepNum));
-                        //重要的!!!!!!, keepNum清空
-                        keepNum = "";
-
+                        numStack.push(Integer.parseInt(keepNum.trim()));
+                            //重要的!!!!!!, keepNum清空
+                            keepNum = "";
                     }
                 }
             }
@@ -98,6 +97,8 @@ public class Calculator {
         System.out.printf("表达式 %s = %d", expression, res2);
     }
 }
+
+
 
 //先创建一个栈,直接使用前面创建好
 //定义一个 ArrayStack2 表示栈, 需要扩展功能
@@ -181,6 +182,7 @@ class ArrayStack2 {
 
     //计算方法
     public int cal (int num1, int num2, int oper) {
+
         int res = 0; // res 用于存放计算的结果
         switch (oper) {
             case '+':
@@ -188,6 +190,7 @@ class ArrayStack2 {
                 break;
             case '-':
                 res = num2 - num1;// 注意顺序
+
                 break;
             case '*':
                 res = num1 * num2;
